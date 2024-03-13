@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @Anwesaghosh123
+- 👀 I’m interested in .. Electrical Engineering and content writing
+- .
+- 🌱 I’m currently learning about AI...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me mail4anwesa@gmail.com...
+- 😄 Pronouns: she/her...
+- ⚡ Fun fact: .i..
+
+<!---
+Anwesaghosh123/Anwesaghosh123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
